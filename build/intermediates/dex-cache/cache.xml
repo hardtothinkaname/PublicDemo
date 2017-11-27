@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Andriod_Project\Android_SDK_REALTIME\Android_SDK_REALTIME\PublicDemo\app\libs\NlsRealtimeSdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef9ced4b5a3d4aa6f9a4610a7775e06b28f0954e">
+        <dex dex="D:\Andriod_Project\Android_SDK_REALTIME\Android_SDK_REALTIME\PublicDemo\app\build\intermediates\pre-dexed\debug\NlsRealtimeSdk_f7edf265ca31ced5c72dde6d4896195a876f65f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\C3-403\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.56.android\4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6\fastjson-1.1.56.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4eef0ac3ef5e18db7af5d44ca0228ca5c29dd2f6">
+        <dex dex="D:\Andriod_Project\Android_SDK_REALTIME\Android_SDK_REALTIME\PublicDemo\app\build\intermediates\pre-dexed\debug\fastjson-1.1.56.android_f9ca07eec30cc8f92b94118c0006400526c962f8.jar" />
+    </item>
+
+</items>

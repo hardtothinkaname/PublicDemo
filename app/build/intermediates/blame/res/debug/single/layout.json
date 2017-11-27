@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Andriod_Project\\Android_SDK_REALTIME\\Android_SDK_REALTIME\\PublicDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Andriod_Project\\Android_SDK_REALTIME\\Android_SDK_REALTIME\\PublicDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Andriod_Project\\Android_SDK_REALTIME\\Android_SDK_REALTIME\\PublicDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_asr.xml",
+        "source": "D:\\Andriod_Project\\Android_SDK_REALTIME\\Android_SDK_REALTIME\\PublicDemo\\app\\src\\main\\res\\layout\\activity_public_asr.xml"
+    }
+]

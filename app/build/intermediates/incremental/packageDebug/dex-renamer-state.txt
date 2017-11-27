@@ -1,0 +1,4 @@
+#Fri Nov 24 16:31:52 CST 2017
+base.0=D\:\\Andriod_Project\\Android_SDK_REALTIME\\Android_SDK_REALTIME\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Andriod_Project\\Android_SDK_REALTIME\\Android_SDK_REALTIME\\PublicDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
